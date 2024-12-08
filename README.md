@@ -1,5 +1,8 @@
 # Nand2Tetris
 计算机系统要素：从零开始构建现代计算机
+
+The Elements of Computing Systems: Building a Modern Computer from First Principles
+
 ### 关于为什么要学这本书：
 大一的必修课 Computer Systems Fundamentals 课程设计提及本书，区别在与实际教学使用mips。
 
