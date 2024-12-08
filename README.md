@@ -1,5 +1,8 @@
 # Nand2Tetris
 计算机系统要素：从零开始构建现代计算机
+### 关于为什么要学这本书：
+大一的必修课 Computer Systems Fundamentals 课程设计提及本书，区别在与实际教学使用mips。
+
 
 ## 软件安装问题（MacOS）
 请浏览：https://www.nand2tetris.org/software 
